@@ -1,10 +1,13 @@
-- 👋 **펭귄을 좋아합니다**
-- 👀 **SSAFY 8기**
-- 🌱 **백엔드 개발자가 될래요**
-- 📱 **JAVA, KOTLIN**
-- 📫 **Instagarm @res_o_nance**
+## Who Am I 
+  - 👀 웹 개발을 배우고 있습니다.
+  - 📱 **JAVA, KOTLIN**
+  - 🌱 백엔드 개발자가 될래요
 
-<!---
-pingu2017/pingu2017 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Experience
+  - 🎓숭실대학교 법학과 (2017~2022)
+  - 💻SSAFY 8기 
+
+## What I Like
+  🎮🥐🎞️🧶🎧🎸📖
+  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tenrio1025)](https://solved.ac/tenrio1025/)
