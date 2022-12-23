@@ -1,7 +1,7 @@
 - 👋 **펭귄을 좋아합니다**
 - 👀 **SSAFY 8기**
 - 🌱 **백엔드 개발자가 될래요**
-- 📱 **JAVA**
+- 📱 **JAVA, KOTLIN**
 - 📫 **Instagarm @res_o_nance**
 
 <!---
