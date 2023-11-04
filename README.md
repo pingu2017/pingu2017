@@ -2,15 +2,16 @@
 
 ## Who Am I 
   - 🌱 BackEnd 개발자로 일하고 있습니다.
-  - 📱 **JAVA**
+  - 📱 **JAVA**, kotlin, python
 
 ## Experience
   - 🎓숭실대학교 법학과 (2017~2022)
   - 💻SSAFY 8기 수료 (2022~2023)
 
 ## What I Interest
-  - Devops에 관심이 있습니다.
-  - 무럭무럭 성장하고 싶습니다.
+  - 실력있는 근본 개발자 되기
+  - 배움엔 끝이 없다
+  - 즐겁게 공부하고 열심히 일하기
 
 ## What I Like
   🎮🥐🎞️🧶🎧🎸📖
