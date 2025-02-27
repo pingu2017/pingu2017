@@ -1,4 +1,3 @@
-## https://pingu0130.tistory.com/
 
 ## Who Am I 
   - 🌱 BackEnd 개발자로 일하고 있습니다.
